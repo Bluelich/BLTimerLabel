@@ -145,4 +145,5 @@
         NSString *str = [_delegate callTimerLabel:self textAtTime:_count];
         self.text = str;
     });
-}@end
+}
+@end
